@@ -1,10 +1,53 @@
 ---
 layout: page
-title: My website
-subtitle: This is where I will tell my friends way too much about me
+title: Ty Kroll
+subtitle: Composer
 use-site-title: true
 ---
 
+<style>
+  #bio, #bio tr, #bio td {
+		background: {{ site.navbar-col }} !important;
+		border: none !important;
+		font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
+		font-size: normal !important;
+	}
+	#bio td:first-child {
+		vertical-align: top !important;
+		padding: 0 !important;
+		margin: 0 !important;
+	}
+</style>
+<table id="bio">
+	<tr>
+		<td>
+			<img src="img/Ty1.jpg">
+		</td>
+		<td>
+			<!-- TODO: can we pull this out to markdown for easier editing?
+			include_relative bio.md
+			-->
+			<p>
+			Here is some stuff about Ty. He is a <em>pretty nice guy</em>.
+			And he writes good music. You should buy it!
+			</p>
+			<p>
+			Some more information.
+			</p>
+		</td>
+	</tr>
+</table>
+<div style="float: left; margin: 0; padding: 0 10px 0 0">
+</div>
+<!--
+	<img src="img/Ty2.jpg">
+<img src="img/Ty3.jpg">
+-->
+<div style="padding: 0 0 0 10px; margin: 0; background: lightgray">
+</div>
+<div style="clear: both"/>
+
+<a name="news"></a>
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">

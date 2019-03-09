@@ -1,8 +1,8 @@
-{% capture before %}{{ include.link[1] | split: "://" | first }}{% endcapture %}
-{% capture after %}{{ include.link[1] | split: "://" | last }}{% endcapture %}
+{% capture before %}{{ include.link[1] | split: ":" | first }}{% endcapture %}
+{% capture after %}{{ include.link[1] | split: ":" | last }}{% endcapture %}
 {% assign internal = true %}
 {% if before != after %}
-  {% if before == "http" or before == "https" %}
+  {% if before == "http" or before == "https" or before == "mailto" %}
     {% assign internal = false %}
   {% endif %}
 {% endif %}
