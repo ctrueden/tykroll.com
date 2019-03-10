@@ -47,7 +47,7 @@ A Red, Red Rose – [TTBB Choir and Viola](https://www.musicnotes.com/sheetmusic
 
 I reset some traditional texts to a new melody for my wife, Marién, when we were doing the long distance relationship thing and premiered the TTBB setting with the Madison Men’s Choir. I later arranged it for full choir and again for flutes.
 
-## Arrangements
+### Choral Arrangements
 
 __[Saint James Infirmary Blues – TTBB Choir, A Cappella (2010)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093134)__
 
