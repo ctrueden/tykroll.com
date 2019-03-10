@@ -2,6 +2,8 @@
 title: Works of Ty
 ---
 
+<img src="../img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
+
 ## Flute Ensemble Music
 
 __[River Water – Flute Choir (2017)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176498)__
