@@ -1,5 +1,5 @@
 ---
-title: Works of Ty
+title: Works of Ty Kroll
 ---
 
 <img src="../img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
