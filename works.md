@@ -1,5 +1,6 @@
 ---
-title: Works of Ty Kroll
+title: Works of
+subtitle: Ty Kroll
 ---
 
 <img src="../img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
