@@ -605,6 +605,14 @@ footer .theme-by {
     margin-bottom: 5px;
   }
 }
+@media only screen and (max-width: 600px) {
+  .intro-header .page-heading h1 {
+    font-size: 30px !important;
+  }
+  .intro-header .page-heading .page-subheading {
+    font-size: 30px !important;
+  }
+}
 
 /* --- Pager --- */
 
