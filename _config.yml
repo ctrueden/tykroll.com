@@ -36,6 +36,12 @@ navbar-links:
 # then specify the following parameter
 # title-img: /path/to/image
 
+# --- Font options --- #
+
+full-header-font-size: "60px"
+small-header-font-size: "30px"
+news-post-header-font-size: "24px"
+
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
@@ -49,6 +55,7 @@ hover-col: "#F87217"
 footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+header-col: "chocolate"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
