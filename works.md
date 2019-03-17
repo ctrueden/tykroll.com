@@ -3,7 +3,7 @@ title: Works of
 subtitle: Ty Kroll
 ---
 
-<img src="../img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
+<img src="/img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
 
 ## Flute Ensemble Music
 
