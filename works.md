@@ -22,13 +22,13 @@ __Farewell at Yangguan Pass – Flute Choir (2018)__
 
 In this setting I tried to contrast the imagery of the desolate Yangguan landscape with soft and tender feelings for the departing friend. The piece was premiered by the High School Choir of the Madison Flute Club.
 
-This piece is not yet published; [email Ty](mailto:tmkroll@hotmail.com) for more information.
+This piece is not yet published; [email Ty](mailto:ty@tykroll.com) for more information.
 
 __Flight Of the Oarfish – Flute trio (2018)__
 <br>_3 C flutes_
 <br>This trio began as attempt to create a new, original melody in the style of some of the traditional Chinese melodies I was studying at the time. At least one Chinese musician has told me I’ve succeed. Though I’m not aware of any Chinese legend concerning an oarfish, they look like magical creatures to me, real life Chinese dragons. There is a Japanese myth about the ones that wash up on shore, that they are sent by a water dragon to warn people of impending disaster. At first I thought that subject a bit dark for this piece, but then I looked at the beaching of the fish as a transition, a transformation. When the piece begins the oarfish is as home in the deep ocean, for the fugal development it begins its ‘flight’   up into the shallows. At the return of the opening melody the oarfish’s flight is complete and it swims comfortably in the celestial realm. 
 
-This piece is not yet published, [email Ty](mailto:tmkroll@hotmail.com) for more information.
+This piece is not yet published, [email Ty](mailto:ty@tykroll.com) for more information.
 
 __[A Red, Red Rose – Flute Choir (2012, arranged 2017)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176578)__
 <br>_4 flutes, alto, bass, and a featured alto and bass flute solo_
