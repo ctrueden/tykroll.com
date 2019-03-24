@@ -32,7 +32,7 @@ This piece is not yet published, [email Ty](mailto:ty@tykroll.com) for more info
 
 __[A Red, Red Rose – Flute Choir (2012, arranged 2017)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176578)__
 <br>_4 flutes, alto, bass, and a featured alto and bass flute solo_
-<br>This arrangement of my earlier choral work is my work for flutes, and it’s a bit low flute heavy. C flutes are only in 2 parts much of the way through while the featured low flute solos are exposed. An ideal ensemble  to realize this setting might be of mixed skill levels so the C flutes could be comfortable with the extra support while the soloists strike out on their own. We read this setting at the 2017 NFA Convention. 
+<br>This arrangement of my earlier choral work for flutes is a bit low flute heavy. C flutes are only in 2 parts much of the way through while the featured low flute solos are exposed. An ideal ensemble  to realize this setting might be of mixed skill levels so the C flutes could be comfortable with the extra support while the soloists strike out on their own. We read this setting at the 2017 NFA Convention. 
 
 ### Arrangements of popular song for Flute ensemble
 
