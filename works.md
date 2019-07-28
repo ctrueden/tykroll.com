@@ -36,9 +36,9 @@ __[A Red, Red Rose – Flute Choir (2012, arranged 2017)](https://www.musicnotes
 
 ### Arrangements of popular song for Flute ensemble
 
-Here are two winter/holiday piece arranged for quartet read my members of the Madison Flute Club:
+Here are two winter/holiday piece arranged for flute quartet/ensemble with piccolo read my members of the Madison Flute Club:
 
-* [Once Upon a December](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0198988) from Anastasia
+* [Once Upon a December](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0198988) from _Anastasia
 * Merry Christmas, Mr. Lawrence (coming soon)
 
 I premiered these duet settings with another member of the Madison Flute Club in 2018, enjoy:
