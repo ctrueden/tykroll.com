@@ -11,7 +11,7 @@ __[River Water – Flute Choir (2017)](https://www.musicnotes.com/sheetmusic/mtd
 <br>_Piccolo, 4 flutes, Alto, Bass, Contrabass_
 <br>River Water is a setting of the Liaoning Chinese melody Jiang He Shui. This piece, made popular on the erhu, tells the sad story of a woman mourning by a river. This setting was premiered by the Adult Choir of the Madison Flute Club.
 
-__Farewell at Yangguan Pass – Flute Choir (2018)__
+__[Farewell at Yangguan Pass – Flute Choir (2018)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0198000)__
 <br>_Piccolo, 5 flutes, Alto, Bass, Contrabass (optional)_
 <br>Farewell at Yangguan Pass is a setting of the ancient Chinese melody Yangguan Sandie. The melody corresponds to the Tang Dynasty Wang Wei text:
 
@@ -21,8 +21,6 @@ __Farewell at Yangguan Pass – Flute Choir (2018)__
 > <br>Out west past the Yangguan, old friends there'll be none.
 
 In this setting I tried to contrast the imagery of the desolate Yangguan landscape with soft and tender feelings for the departing friend. The piece was premiered by the High School Choir of the Madison Flute Club.
-
-This piece is not yet published; [email Ty](mailto:ty@tykroll.com) for more information.
 
 __Flight Of the Oarfish – Flute trio (2018)__
 <br>_3 C flutes_
