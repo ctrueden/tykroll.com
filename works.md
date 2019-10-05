@@ -34,10 +34,10 @@ __[A Red, Red Rose – Flute Choir (2012, arranged 2017)](https://www.musicnotes
 
 ### Arrangements of popular song for Flute ensemble
 
-Here are two winter/holiday piece arranged for flute quartet/ensemble with piccolo read my members of the Madison Flute Club:
+Here are two winter/holiday pieces arranged for flute quartet/ensemble with piccolo read by members of the Madison Flute Club:
 
 * [Once Upon a December](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0198988) from _Anastasia_
-* Merry Christmas, Mr. Lawrence (coming soon)
+* [Merry Christmas, Mr. Lawrence](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0200491)
 
 I premiered these duet settings with another member of the Madison Flute Club in 2018, enjoy:
 
@@ -52,6 +52,10 @@ A Red, Red Rose – [TTBB Choir and Viola](https://www.musicnotes.com/sheetmusic
 I reset some traditional texts to a new melody for my wife, Marién, when we were doing the long distance relationship thing and premiered the TTBB setting with the Madison Men’s Choir. I later arranged it for full choir and again for flutes.
 
 ### Choral Arrangements
+
+__[Chanson Bohéme - SATB, A Cappella (2004 revised 2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0201262)__
+
+I set this Carmen aria for choir in 2004 and made substanital revisions in 2019.
 
 __[Saint James Infirmary Blues – TTBB Choir, A Cappella (2010)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093134)__
 
