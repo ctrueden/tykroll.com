@@ -45,7 +45,7 @@ I premiered these duet settings with another member of the Madison Flute Club in
 * [A Thousand Years – Flute Duet](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0172933)
 * [Walking in the Air – Flute Duet](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0175068)
 
-__[Dueling Contrabass Flutes)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0213801&fbclid=IwAR1ResJLlXGA98f5j1fNNW-HX1kHqWCmhQqYNaH4Ekhz-RlKbYQfacE_KGg)__
+__[Dueling Contrabass Flutes (2020)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0213801&fbclid=IwAR1ResJLlXGA98f5j1fNNW-HX1kHqWCmhQqYNaH4Ekhz-RlKbYQfacE_KGg)__
 <br>_Dueling Banjos arranged for 2 Contrabass (or Bass) Flutes_
 <br>Arranged for the Madison Flute Club upon their aquisition of a second contrabass flute and [premeired remotely over the Acapella App](https://www.youtube.com/watch?v=luJ3DTFwl4c) 
 
@@ -77,4 +77,4 @@ I premiered this folk tune setting with the UW Men’s Choir.
 
 __[Passacaglia (2020)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0224032)__
 <br>_unaccompanied flute_
-<br> Thinking about unaccompanied solos in the 2020 pandemic and I looking to the past for inspiration, I wrote [and performed](https://youtu.be/Tx3Oq2TyrCI) this Passacaglia for unaccompanied flute. The lone flute has quite a bit to do keeping the ground bass going for entire piece while playing different lines of counterpoint above it. I innovated a bit in the form by displacing the ground bass one beat in time to create contrasting middle section.
+<br> Thinking about unaccompanied solos in the 2020 pandemic and I looking to the past for inspiration, I wrote [and performed](https://youtu.be/Tx3Oq2TyrCI) this Passacaglia for unaccompanied flute. The lone flute has quite a bit to do here keeping the ground bass going for entire piece while playing different lines of counterpoint above it. I innovated a bit in the form by displacing the ground bass one beat in time to create contrasting middle section.
