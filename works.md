@@ -72,3 +72,9 @@ For this setting I was heavily influenced by some spiritual settings of Moses Ho
 __[The Eire Canal – TTBB and piano (2012)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0107110)__
 
 I premiered this folk tune setting with the UW Men’s Choir. 
+
+## Chamber Music
+
+__[Passacaglia (2020)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0224032)__
+<br>_unaccompanied flute_
+<br> Thinking about unaccompanied solos in the 2020 pandemic and I looking to the past for inspiration, I wrote [and performed](https://youtu.be/Tx3Oq2TyrCI) this Passacaglia for unaccompanied flute. The lone flute has quite a bit to do keeping the ground bass going for entire piece while playing different lines of counterpoint above it. I innovated a bit in the form by displacing the ground bass one beat in time to create contrasting middle section.
