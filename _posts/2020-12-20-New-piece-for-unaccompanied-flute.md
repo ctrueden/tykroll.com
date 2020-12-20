@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New piece for Unaccompanied Flute"
+title: "New piece for unaccompanied flute"
 tags: [flute, publishing]
 ---
 
