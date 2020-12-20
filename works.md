@@ -45,7 +45,7 @@ I premiered these duet settings with another member of the Madison Flute Club in
 * [A Thousand Years – Flute Duet](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0172933)
 * [Walking in the Air – Flute Duet](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0175068)
 
-Arranged for the Madison Flute Club upon their aquisition of a second contrabass flute and [premeired remotely over the A Cappella App](https://www.youtube.com/watch?v=luJ3DTFwl4c_:
+Arranged for the Madison Flute Club upon their aquisition of a second contrabass flute and [premeired remotely over the A Cappella App](https://www.youtube.com/watch?v=luJ3DTFwl4c)
 <br>_2 Contrabass (or Bass) flutes_
 <br>
 * [Dueling Contrabass Flutes](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0213801&fbclid=IwAR1ResJLlXGA98f5j1fNNW-HX1kHqWCmhQqYNaH4Ekhz-RlKbYQfacE_KGg)
