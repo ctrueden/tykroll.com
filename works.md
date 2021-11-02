@@ -12,7 +12,7 @@ __[Winter Scenes – Flute Quartet (2019)](https://www.musicnotes.com/sheetmusic
 <br>In three movements, Winter Scenes begins with a pleasant walk. Once familiar landscape is now beautiful but alien under a fresh coat of snow. The second movement is a snowstorm or winter wind fugue which leads directly into the finale, a reprise of the opening scene but further changed by the wind and blowing snow in the piccolo. 
 <br>[Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=mofdqOf49NE), [2](https://www.youtube.com/watch?v=0GxHESBiWt8), [3](https://www.youtube.com/watch?v=4UVpBqKagzs).
 
-__[Winter Scenes – Flute Choir (2019)]__
+__Winter Scenes – Flute Choir (2019)__
 <br>_Piccolo, 4 flutes (one doubling on 2nd piccolo), Alto, Bass, Contrabass (optional)_
 <br>The final [two movements of this larger arrangement of Winter Scenes](https://www.facebook.com/watch/?v=771933873482347) were premeired (virtually) by the Pikes Peak flute choir with Ty sitting in on bass May 2021. 
 <br>This larger arrangement is not yet published, [email Ty](mailto:ty@tykroll.com) for more information. 
