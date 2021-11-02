@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brenda Moats Plays [Winter Scenes](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038)"
+title: "Brenda Moats Plays __Winter Scenes__"
 tags: [flute, concert, quartet]
 ---
 
