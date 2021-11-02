@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Brenda Moats Plays _Winter Scenes_"
-tags: [flute, concert, quartet]
+tags: [flute, YouTube, quartet]
 ---
 
 <br>[Brenda Moats](https://www.youtube.com/channel/UCiKCBYgDEipWcemCmlzn0cQ) (Saskatoon Symphony) premeired the flute quartet arrangement of Ty's piece [Winter Scenes](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038) virtually on Youtube.
