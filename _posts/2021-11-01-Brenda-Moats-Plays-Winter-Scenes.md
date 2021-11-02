@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brenda Moats Plays __Winter Scenes__"
+title: "Brenda Moats Plays _Winter Scenes_"
 tags: [flute, concert, quartet]
 ---
 
