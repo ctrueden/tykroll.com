@@ -20,7 +20,7 @@ __Winter Scenes – Flute Choir (2019)__
 __[River Water – Flute Choir (2017)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176498)__
 <br>_Piccolo, 4 flutes, Alto, Bass, Contrabass_
 <br>River Water is a setting of the Liaoning Chinese melody Jiang He Shui. This piece, made popular on the erhu, tells the sad story of a woman mourning by a river. This setting was premiered by the Adult Choir of the Madison Flute Club.
-[Played here by the New England Flute Orchestra of Indian Hill Music](https://www.youtube.com/watch?v=aPjmbMlNF1M) video engineer: Nicole O'Toole.
+<br>[Played here by the New England Flute Orchestra of Indian Hill Music](https://www.youtube.com/watch?v=aPjmbMlNF1M) video engineer: Nicole O'Toole.
 
 __[Farewell at Yangguan Pass – Flute Choir (2018)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0198000)__
 <br>_Piccolo, 5 flutes, Alto, Bass, Contrabass (optional)_
