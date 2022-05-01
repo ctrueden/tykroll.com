@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Madison Flute Club Concert"
+title: "Madison Flute Club Premieres 'Earthsong'"
 tags: [flute, concert]
 ---
 
