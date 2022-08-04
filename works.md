@@ -7,6 +7,13 @@ subtitle: Ty Kroll
 
 ## Flute Ensemble Music
 
+__[Earth Song – Flute Choir (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0260284)__
+<br>_Piccolo, 3 flutes, Alto, Bass, Contrabass (optional)_
+<br>Dedicated to the Madison Flute Club on the Occasion of its 20th Anniversary Celebration, Earth Song is, more than anything else, music _about_ music, about the act of coming to together to play the flute. With some years playing in Native American and world flute circles, I find this "power of the pentatonic scale" idea compelling. Earth Song opens and closes with a sweeping melody reminisint of folk music. The middle section is a completely different treatment of the pentatonic scale, a complex fugue loosely inspired by Mbuti melodies. The subject, felt in 10/8 time, is superimposed over a 5/4 pulse for a syncopated dance.
+<br>Madison Flute Club Premiered Earth Song on its 20th Anniversary concert May 7th and the Chamber Choir will play it at the [National Flute Association Convention](https://www.nfaonline.org/convention/2022-convention) August 12th, 2022. 
+
+<br>[Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=mofdqOf49NE), [2](https://www.youtube.com/watch?v=0GxHESBiWt8), [3](https://www.youtube.com/watch?v=4UVpBqKagzs).
+
 __[Winter Scenes – Flute Quartet (2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038)__
 <br>_3 flutes (one doubling on piccolo) and Alto_
 <br>In three movements, Winter Scenes begins with a pleasant walk. Once familiar landscape is now beautiful but alien under a fresh coat of snow. The second movement is a snowstorm or winter wind fugue which leads directly into the finale, a reprise of the opening scene but further changed by the wind and blowing snow in the piccolo. 
