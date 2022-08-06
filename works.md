@@ -15,7 +15,7 @@ __[Earth Song – Flute Choir (2021)](https://www.musicnotes.com/sheetmusic/mtd.
 __[Winter Scenes – Flute Quartet (2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038)__
 <br>_3 flutes (one doubling on piccolo) and Alto_
 <br>In three movements, Winter Scenes begins with a pleasant walk. Once familiar landscape is now beautiful but alien under a fresh coat of snow. The second movement is a snowstorm or winter wind fugue which leads directly into the finale, a reprise of the opening scene but further changed by the wind and blowing snow in the piccolo. 
-<br>[Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=mofdqOf49NE), [2](https://www.youtube.com/watch?v=0GxHESBiWt8), [3](https://www.youtube.com/watch?v=4UVpBqKagzs).
+<br>[Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=c8iUNSXJS-w), [2](https://www.youtube.com/watch?v=luVQ8c3mmBY), [3](https://www.youtube.com/watch?v=egsExbfETZk).
 
 __Winter Scenes – Flute Choir (2019)__
 <br>_Piccolo, 4 flutes (one doubling on 2nd piccolo), Alto, Bass, Contrabass (optional)_
