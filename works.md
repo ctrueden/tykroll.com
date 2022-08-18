@@ -10,7 +10,7 @@ subtitle: Ty Kroll
 __[Earth Song – Flute Choir (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0260284)__
 <br>_Piccolo, 3 flutes, Alto, Bass, Contrabass (optional)_
 <br>Dedicated to the Madison Flute Club on the Occasion of its 20th Anniversary Celebration, Earth Song is, primarily, music _about_ music, about the act of coming to together to play the flute. Some years in world flute circles sold me on the "power of the pentatonic scale." Earth Song opens with a sweeping melody reminiscent of folk music. This gives way to a different treatment of the pentatonic scale, a fugue loosely inspired by Mbuti melodies. The subject, felt in 10/8 time, is superimposed over a 5/4 pulse for a lively, syncopated dance.
-<br>Madison Flute Club Premiered Earth Song May 7th and the Chamber Choir will play it at the [National Flute Association](https://www.nfaonline.org/convention/2022-convention) August 12th, 2022. 
+<br>[Madison Flute Club Premiered Earth Song](https://www.youtube.com/watch?v=p7EiGlVFdVU) at the [National Flute Association](https://www.nfaonline.org/convention/2022-convention) August 12th, 2022. 
 
 __[Winter Scenes – Flute Quartet (2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038)__
 <br>_3 flutes (one doubling on piccolo) and Alto_
