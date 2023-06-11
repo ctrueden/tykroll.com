@@ -10,7 +10,7 @@ subtitle: Ty Kroll
 __[Mercury – Flute Choir (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0275231)__
 <br>_Piccolo, 4 flutes , Alto, Bass, Contrabass_
 <br>Commissioned by Berlina Lopez for the Combined Choir of the Madison Flute Club, Mercury premiered May 6th, 2023.
-<br>A three minute miniature Sonata, Mercury came together with limited rehearsal and should be a low-stress addition to any concert.
+<br>A three minute miniature Sonata, Mercury should be a low-stress addition to any concert.
 
 __[Earth Song – Flute Choir (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0260284)__
 <br>_Piccolo, 3 flutes, Alto, Bass, Contrabass (optional)_
