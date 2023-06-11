@@ -7,20 +7,24 @@ subtitle: Ty Kroll
 
 ## Flute Ensemble Music
 
+__[Mercury – Flute Choir (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0274899](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0275231)__
+<br>_Piccolo, 4 flutes , Alto, Bass, Contrabass_
+<br>Commissioned by Berlina Lopez for the Combined Choir of the Madison Flute Club, Mercury premiered May 6th, 2023.
+<br>A three minute miniature Sonata, Mercury came together with limited rehearsal and should be a low-stress addition to any concert.
+
 __[Earth Song – Flute Choir (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0260284)__
 <br>_Piccolo, 3 flutes, Alto, Bass, Contrabass (optional)_
 <br>Dedicated to the Madison Flute Club on the Occasion of its 20th Anniversary Celebration, Earth Song is, primarily, music _about_ music, about the act of coming to together to play the flute. Some years in world flute circles sold me on the "power of the pentatonic scale." Earth Song opens with a sweeping melody reminiscent of folk music. This gives way to a different treatment of the pentatonic scale, a fugue loosely inspired by Mbuti melodies. The subject, felt in 10/8 time, is superimposed over a 5/4 pulse for a lively, syncopated dance.
 <br>[Madison Flute Club Premiered Earth Song](https://www.youtube.com/watch?v=p7EiGlVFdVU) at the [National Flute Association](https://www.nfaonline.org/convention/2022-convention) August 12th, 2022. 
 
+__[Winter Scenes – Flute Choir (2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0274899)__
+<br>_Piccolo, 4 flutes (one doubling on 2nd piccolo), Alto, Bass, Contrabass (optional)_
+<br>In three movements, Winter Scenes begins with a pleasant walk. Once familiar landscape is now beautiful but alien under a fresh coat of snow. The second movement is a snowstorm or winter wind fugue which leads directly into the finale, a reprise of the opening scene but further changed by the wind and blowing snow in the piccolo.
+<br>The final [two movements of this larger arrangement of Winter Scenes](https://www.facebook.com/watch/?v=771933873482347) were premiered (virtually) by the Pikes Peak flute choir with Ty sitting in on bass May 2021, after which it wasn't until 2023 that the piece received a live, in person reading from the Chamber Choir of the Madison Flute Club, which was quite successful.
+
 __[Winter Scenes – Flute Quartet (2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0245038)__
 <br>_3 flutes (one doubling on piccolo) and Alto_
-<br>In three movements, Winter Scenes begins with a pleasant walk. Once familiar landscape is now beautiful but alien under a fresh coat of snow. The second movement is a snowstorm or winter wind fugue which leads directly into the finale, a reprise of the opening scene but further changed by the wind and blowing snow in the piccolo. 
-<br>[Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=c8iUNSXJS-w), [2](https://www.youtube.com/watch?v=luVQ8c3mmBY), [3](https://www.youtube.com/watch?v=egsExbfETZk).
-
-__Winter Scenes – Flute Choir (2019)__
-<br>_Piccolo, 4 flutes (one doubling on 2nd piccolo), Alto, Bass, Contrabass (optional)_
-<br>The final [two movements of this larger arrangement of Winter Scenes](https://www.facebook.com/watch/?v=771933873482347) were premeired (virtually) by the Pikes Peak flute choir with Ty sitting in on bass May 2021. 
-<br>This larger arrangement is not yet published, [email Ty](mailto:ty@tykroll.com) for more information. 
+<br>This smaller arrangement is kindly [Played here by Brenda Moats (Saskatoon Symphony): movement 1](https://www.youtube.com/watch?v=c8iUNSXJS-w), [2](https://www.youtube.com/watch?v=luVQ8c3mmBY), [3](https://www.youtube.com/watch?v=egsExbfETZk).
 
 __[River Water – Flute Choir (2017)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176498)__
 <br>_Piccolo, 4 flutes, Alto, Bass, Contrabass_
