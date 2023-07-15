@@ -76,6 +76,10 @@ I reset some traditional texts to a new melody for my wife, Marién, when we wer
 
 ### Choral Arrangements
 
+__[De Hamborger Veermaster – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0276332)__
+
+Plattdeutsch Sea Shanty, my first setting for the Madison Männerchor.
+
 __[Chanson Bohème - SATB, A Cappella (2004 revised 2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0201262)__
 
 I set this Carmen aria for choir in 2004 and made substanital revisions in 2019.
@@ -87,10 +91,6 @@ I set this standard for the UW Men’s Choir. For the premiere we doubled the ba
 __[Saint Louis Blues – SATB Divisi, A Cappella (2015)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0156078)__
 
 For this setting I was heavily influenced by some spiritual settings of Moses Hogan’s I’ve sung. I tried to do a similar treatment here but with a standard. This setting was read by the UW-Madison Concert Choir.
-
-__[The Eire Canal – TTBB and piano (2012)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0107110)__
-
-I premiered this folk tune setting with the UW Men’s Choir. 
 
 ## Chamber Music
 
