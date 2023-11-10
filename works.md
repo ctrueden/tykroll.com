@@ -92,6 +92,12 @@ __[Saint Louis Blues – SATB Divisi, A Cappella (2015)](https://www.musicnotes.
 
 For this setting I was heavily influenced by some spiritual settings of Moses Hogan’s I’ve sung. I tried to do a similar treatment here but with a standard. This setting was read by the UW-Madison Concert Choir.
 
+## Handbells
+
+__[Prelude – (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0279581)__
+
+This is my first composition for handbells and I'm easing into the medium. You'll find this quite sparse and sublte. It was read by Madison Area Concert Handbells, June 2023. They told me it was fun and best suited to a small ensemble who know how to ring four-in-hand.
+
 ## Chamber Music
 
 __[Passacaglia (2020)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0224032)__
