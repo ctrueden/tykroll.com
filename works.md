@@ -94,7 +94,7 @@ For this setting I was heavily influenced by some spiritual settings of Moses Ho
 
 ## Handbells
 
-__[Prelude – (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0279581)__
+__[Prelude (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0279581)__
 
 This is my first composition for handbells and I'm easing into the medium. You'll find this quite sparse and sublte. It was read by Madison Area Concert Handbells, June 2023. They told me it was fun and best suited to a small ensemble who know how to ring four-in-hand.
 
