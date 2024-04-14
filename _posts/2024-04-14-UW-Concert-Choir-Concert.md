@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "UW Madison Concert Choir premeires 'Dry Bones'"
+title: "UW Madison Concert Choir will premiere 'Dry Bones'"
 tags: [choir, concert, premiere]
 ---
 
