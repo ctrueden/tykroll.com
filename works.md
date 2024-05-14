@@ -76,6 +76,10 @@ I reset some traditional texts to a new melody for my wife, Marién, when we wer
 
 ### Choral Arrangements
 
+__[Dry Bones (Dem Bones) – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0288836)__
+
+Harlem Renaissance Spiritual; I had the idea to do this one in a layered, Moses Hogan style probably around 2015 (the last days of the old UW Men's Choir,) but abandoned it for the seven years it took me to find myself in another TTBB choir. I returned to it with Madison Männerchor in mind, but prioritized other, probably better-fitting repertoire for that group until an odd series of events lead this arrangement back collage to for a [premiere by the TTBBs of UW-Madison Concert Choir, Spring 2024.](https://www.youtube.com/watch?v=RU71Zq4cuW8)
+
 __[De Hamborger Veermaster – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0276332)__
 
 Plattdeutsch Sea Shanty, my first setting for the Madison Männerchor.
