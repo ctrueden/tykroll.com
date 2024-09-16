@@ -5,6 +5,38 @@ subtitle: Ty Kroll
 
 <img src="/img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
 
+## Choral Music
+
+__[Autumn Song of the Swallow - SATB, A Cappella (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0292373)__
+
+I set this Marietta Holley text for a local composers' choir which last the pandemic. Tragic, but slightly hopeful, the heartbroken swallow migrates, calling out: "follow me-- O Follow." I treated these sections fugally in increasingly close immitative counterpoint culimating in a final four part canon. In 2024 the piece finally found a home in a [reading by UW Madison Concert Choir.](https://www.youtube.com/watch?v=_ewkqAAQuts)
+
+__[Über die felder... – TTBB, A Cappella (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0290172)__
+
+My first original for the Madison Männerchor, a four part round on a text by Hermann Hesse. [Premiere by the Männerchor, Spring 2024.](https://www.youtube.com/watch?v=DdD3d2wF8so)
+
+### Choral Arrangements
+
+__[Dry Bones (Dem Bones) – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0288836)__
+
+Harlem Renaissance Spiritual; I had the idea to do this one in a layered, Moses Hogan style probably around 2015 (the last days of the old UW Men's Choir,) but abandoned it for the seven years it took me to find myself in another TTBB choir. I returned to it with Madison Männerchor in mind, but prioritized other, probably better-fitting repertoire for that group until an odd series of events lead this arrangement back collage to for a [premiere by the TTBBs of UW-Madison Concert Choir, Spring 2024.](https://www.youtube.com/watch?v=RU71Zq4cuW8)
+
+__[De Hamborger Veermaster – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0276332)__
+
+Plattdeutsch Sea Shanty, my first setting for the Madison Männerchor.
+
+__[Chanson Bohème - SATB, A Cappella (2004 revised 2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0201262)__
+
+I set this Carmen aria for choir in 2004 and made substantial revisions in 2019.
+
+__[Saint James Infirmary Blues – TTBB Choir, A Cappella (2010)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093134)__
+
+I set this standard for the UW Men’s Choir. For the premiere we doubled the bass line on a string bass and that performance was [captured on YouTube](https://www.youtube.com/watch?v=YkBfnew_MBM).
+
+__[Saint Louis Blues – SATB Divisi, A Cappella (2015)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0156078)__
+
+For this setting I was heavily influenced by some spiritual settings of Moses Hogan’s I’ve sung. I tried to do a similar treatment here but with a standard. This setting was read by the UW-Madison Concert Choir.
+
 ## Flute Ensemble Music
 
 __[Mercury – Flute Choir (2023)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0275231)__
@@ -67,34 +99,6 @@ I premiered these duet settings with another member of the Madison Flute Club in
 __[Dueling Contrabass Flutes (2020)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0213801&fbclid=IwAR1ResJLlXGA98f5j1fNNW-HX1kHqWCmhQqYNaH4Ekhz-RlKbYQfacE_KGg)__
 <br>_Dueling Banjos arranged for 2 Contrabass (or Bass) Flutes_
 <br>Arranged for the Madison Flute Club upon their aquisition of a second contrabass flute and [premeired remotely over the Acapella App](https://www.youtube.com/watch?v=luJ3DTFwl4c) 
-
-## Choral Music
-
-A Red, Red Rose – [TTBB Choir and Viola](https://www.musicnotes.com/sheetmusic/col.asp?ppn=CL0003955), [SATB Choir and Cello](https://www.musicnotes.com/sheetmusic/col.asp?ppn=CL0006518), [Flute Choir (2012)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176578)
-
-I reset some traditional texts to a new melody for my wife, Marién, when we were doing the long distance relationship thing and premiered the TTBB setting with the Madison Men’s Choir. I later arranged it for full choir and again for flutes.
-
-### Choral Arrangements
-
-__[Dry Bones (Dem Bones) – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0288836)__
-
-Harlem Renaissance Spiritual; I had the idea to do this one in a layered, Moses Hogan style probably around 2015 (the last days of the old UW Men's Choir,) but abandoned it for the seven years it took me to find myself in another TTBB choir. I returned to it with Madison Männerchor in mind, but prioritized other, probably better-fitting repertoire for that group until an odd series of events lead this arrangement back collage to for a [premiere by the TTBBs of UW-Madison Concert Choir, Spring 2024.](https://www.youtube.com/watch?v=RU71Zq4cuW8)
-
-__[De Hamborger Veermaster – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0276332)__
-
-Plattdeutsch Sea Shanty, my first setting for the Madison Männerchor.
-
-__[Chanson Bohème - SATB, A Cappella (2004 revised 2019)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0201262)__
-
-I set this Carmen aria for choir in 2004 and made substanital revisions in 2019.
-
-__[Saint James Infirmary Blues – TTBB Choir, A Cappella (2010)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0093134)__
-
-I set this standard for the UW Men’s Choir. For the premiere we doubled the bass line on a string bass and that performance was [captured on YouTube](https://www.youtube.com/watch?v=YkBfnew_MBM).
-
-__[Saint Louis Blues – SATB Divisi, A Cappella (2015)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0156078)__
-
-For this setting I was heavily influenced by some spiritual settings of Moses Hogan’s I’ve sung. I tried to do a similar treatment here but with a standard. This setting was read by the UW-Madison Concert Choir.
 
 ## Handbells
 
