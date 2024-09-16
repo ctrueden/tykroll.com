@@ -15,6 +15,10 @@ __[Über die felder... – TTBB, A Cappella (2023)](https://www.musicnotes.com/s
 
 My first original for the Madison Männerchor, a four part round on a text by Hermann Hesse. [Premiere by the Männerchor, Spring 2024.](https://www.youtube.com/watch?v=DdD3d2wF8so)
 
+A Red, Red Rose – [TTBB Choir and Viola](https://www.musicnotes.com/sheetmusic/col.asp?ppn=CL0003955), [SATB Choir and Cello](https://www.musicnotes.com/sheetmusic/col.asp?ppn=CL0006518), [Flute Choir (2012)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0176578)
+
+I reset some traditional texts to a new melody for my wife, Marién, when we were doing the long distance relationship thing and premiered the TTBB setting with the Madison Men’s Choir. I later arranged it for full choir and again for flutes.
+
 ### Choral Arrangements
 
 __[Dry Bones (Dem Bones) – TTBB, A Cappella (2022)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0288836)__
