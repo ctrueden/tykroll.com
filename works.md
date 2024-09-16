@@ -3,8 +3,6 @@ title: Works of
 subtitle: Ty Kroll
 ---
 
-<img src="/img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
-
 ## Choral Music
 
 __[Autumn Song of the Swallow - SATB, A Cappella (2021)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0292373)__
@@ -40,6 +38,8 @@ I set this standard for the UW Men’s Choir. For the premiere we doubled the ba
 __[Saint Louis Blues – SATB Divisi, A Cappella (2015)](https://www.musicnotes.com/sheetmusic/mtd.asp?ppn=MN0156078)__
 
 For this setting I was heavily influenced by some spiritual settings of Moses Hogan’s I’ve sung. I tried to do a similar treatment here but with a standard. This setting was read by the UW-Madison Concert Choir.
+
+<img src="/img/Ty3.jpg" style="float: right; width: 50%; padding-left: 10px">
 
 ## Flute Ensemble Music
 
